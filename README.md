@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/shalikaashan01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p> -->
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true" />
-<img height="150" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true" /><img height="150" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact" />
