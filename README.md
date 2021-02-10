@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="left">
+<p align="left">
 <i>Reach me on:</i><br>
 
 <a href="www.linkedin.com/in/shalika-ashan-a37949147" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/shalika.ashan.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/shalikaashan01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p> -->
+<!--<a href="https://twitter.com/shalikaashan01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>-->
+</p>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true&theme=radical" /><img height="150" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact&theme=radical" />
