@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <!--<a href="https://twitter.com/shalikaashan01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>-->
 </p>
 
-<img height="300" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true&theme=radical" />
+<img height="300" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true&theme=radical" hspace="1"/>
 
-<img height="150" hspace="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact&theme=radical" /> <img height="150" hspace="2" src="http://github-readme-streak-stats.herokuapp.com?user=ShalikaAshan01&show_icons=true&theme=radical" />
+<img height="150" hspace="3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact&theme=radical" /> <img hspace="3"  height="150" src="http://github-readme-streak-stats.herokuapp.com?user=ShalikaAshan01&show_icons=true&theme=radical" />
