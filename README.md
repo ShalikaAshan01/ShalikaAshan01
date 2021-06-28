@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 <img height="300" src="https://github-readme-stats.vercel.app/api?username=ShalikaAshan01&show_icons=true&theme=radical" />
-<img height="150" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact&theme=radical" />
 
-<img height="150" hspace="2" src="http://github-readme-streak-stats.herokuapp.com?user=ShalikaAshan01&show_icons=true&theme=radical" />
+<img height="150" hspace="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalikaAshan01&layout=compact&theme=radical" /> <img height="150" hspace="2" src="http://github-readme-streak-stats.herokuapp.com?user=ShalikaAshan01&show_icons=true&theme=radical" />
